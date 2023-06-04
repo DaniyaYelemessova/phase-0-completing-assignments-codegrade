@@ -133,7 +133,6 @@ These instructions are now also available on your local machine in `README.md`.
 > files in the parent folder" option to prevent this warning from coming up
 > every time you open a lesson. Just be sure to download your code from trusted
 > sources!
-
 [workspace-trust]: https://code.visualstudio.com/docs/editor/workspace-trust
 
 ### Working on an Assignment
